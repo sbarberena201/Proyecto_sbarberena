@@ -3,3 +3,4 @@ Este es el texto de prueba de versiones
 
 Manana nos enfocaremos en vida laboral
 Esta bueno este git va,ps a ver
+Al parecer el git esta mas bueno que nunca
